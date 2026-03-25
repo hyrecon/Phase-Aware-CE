@@ -30,7 +30,7 @@ Semi-passive tag (SPDT switch) + USRP N200 SDR reader + GNU Radio-based transcei
 
 ## 🛠️ Built With
 
-`MATLAB` · `Python` · `GNU Radio`
+`MATLAB` · `Python` · `SDR`
 
 USRP N200 · semi-passive backscatter tag · planar Yagi-Uda antenna array · microwave absorber
 
